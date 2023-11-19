@@ -385,4 +385,4 @@ Examples:
 
 Colors contrast
 Header tags
-etc.
+etc..
